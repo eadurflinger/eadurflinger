@@ -1,6 +1,6 @@
 ### Hi there I'm Elizabeth 👋
 
-I am currently working with Angular at Ving! 
+I am currently working with Angular at Ving! Using Bitbucket... so I'm committing I promise, just not here :(
 
 I am interested in learning React and Swift. 
 
