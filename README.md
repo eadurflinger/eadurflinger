@@ -1,4 +1,4 @@
-### Hi there I'm Elizabeth 👋
+### Hi there I'm Elizabeth 🐸
 
 I am currently working with Angular at Ving! Using Bitbucket... so I'm committing I promise, just not here :P
 
