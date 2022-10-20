@@ -2,7 +2,7 @@
 
 I am currently working with Angular at Ving! 
 
-I am intersting in learning React and Swift. 
+I am interested in learning React and Swift. 
 
 I am also a multi media artist, ranging from digital paintings to bug taxidermy displays. 
 
