@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm Elizabeth 👋
+
+I am currently working with Angular at Ving! 
+
+I am intersting in learning React and Swift. 
+
+I am also a multi media artist from digital paintings to bug taxidermy displays. 
+
+Nice to meet you!
 
 <!--
 **eadurflinger/eadurflinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
