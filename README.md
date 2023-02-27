@@ -1,8 +1,8 @@
 ### Hi there I'm Elizabeth 🐸
 
-I am currently working with Angular at Ving! Using Bitbucket... so I'm committing I promise, just not here :P
+I am currently working on my personal website and going through a React course. 
 
-I am interested in learning React and Swift. 
+I am looking for a position as a React Developer. 
 
 I am also a multi media artist, ranging from digital paintings to bug taxidermy displays. 
 
