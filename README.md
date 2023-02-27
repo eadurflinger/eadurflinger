@@ -1,4 +1,4 @@
-### Hi there I'm Elizabeth 🐸
+### Hi there I'm Elizabeth
 
 I am currently working on my personal website and going through a React course. 
 
